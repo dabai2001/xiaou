@@ -4,7 +4,7 @@
         <router-view></router-view>
       </div>
       <div class="nav">
-        <div><router-link to="/xiaou/index" tag="span">小U11</router-link></div>
+        <div><router-link to="/xiaou/index" tag="span">UU</router-link></div>
         <div><router-link  to="/xiaou/cart?name=andy"  tag="span">购物车</router-link></div>
         <div><router-link  to="/xiaou/my"  tag="span">我的</router-link></div>
       </div>
